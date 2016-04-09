@@ -15,7 +15,7 @@ public class calc extends Calc_func
         int option;
         do
         {
-            System.out.println("Menu:\n1.Add\t2.Sub\t3.Exit");
+            System.out.println("Menu:\n1.Add\t2.Sub\t3.Multiply\t4.Divide\t5.Exit");
             System.out.println("Enter the option :");
             option=s.nextInt();
             

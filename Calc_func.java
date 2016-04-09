@@ -16,7 +16,7 @@ public class Calc_func
     static void div(int a,int b)
     {
         if(b!=0)
-            System.out.println(a*/);
+            System.out.println(a/b);
         else
             System.out.println("Denominator cannot be zero");
     }
