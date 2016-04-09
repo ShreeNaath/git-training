@@ -20,4 +20,11 @@ public class Calc_func
         else
             System.out.println("Denominator cannot be zero");
     }
+
+    static void mod(int a,int b)
+    {
+        System.out.println(a%b);
+    
+    }
+
 }
